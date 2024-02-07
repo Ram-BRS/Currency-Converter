@@ -1,0 +1,254 @@
+    1  ssh -i "linux key.pem" ec2-user@ec2-18-183-150-53.ap-northeast-1.compute.amazonaws.com
+    2  cd Downloads/
+    3  ssh -i "linux key.pem" ec2-user@ec2-18-183-150-53.ap-northeast-1.compute.amazonaws.com
+    4  exit
+    5  Amazon Linux
+    6  ssh -i "linux key.pem" ec2-user@ec2-18-183-150-53.ap-northeast-1.compute.amazonaws.com
+    7  pwd
+    8  find file test4
+    9  rm -rf
+   10  pwd
+   11  cd Downloads/
+   12  ls
+   13  chmod 400 linux key.pem~
+   14  chmod 400 linux key.pem
+   15  ssh -i "linux.pem" ubuntu@ec2-3-112-178-10.ap-northeast-1.compute.amazonaws.com
+   16  ls
+   17  pwd
+   18  cd Downloads/
+   19  ssh -i "mylinux.pem" ubuntu@ec2-54-250-173-17.ap-northeast-1.compute.amazonaws.com
+   20  ls
+   21  ssh -i "mylinux.pem" ubuntu@ec2-54-250-173-17.ap-northeast-1.compute.amazonaws.com
+   22  ls
+   23  echo "hello" >hellocloud.html
+   24  ls
+   25  pwd
+   26  cd Downloads/
+   27  ls-ltr |grep mylinux
+   28  pwd
+   29  chmod 0400 ubuntu-serverkey.pem 
+   30  ssh -i "ubuntu-serverkey.pem" ubuntu@ec2-54-178-170-73.ap-northeast-1.compute.amazonaws.com
+   31  pwd
+   32  ssh -i "ubuntu-serverkey.pem" ubuntu@ec2-43-207-158-111.ap-northeast-1.compute.amazonaws.com
+   33  ls
+   34  pwd
+   35  chmod 400 ubuntu-serverkey.pem
+   36  cd Downloads/
+   37  ls-ltr |grep mlinux
+   38  ls -ltr |grep ubuntu-serverkey.pem 
+   39  ssh -i "ubuntu-serverkey.pem" ubuntu@ec2-43-207-158-111.ap-northeast-1.compute.amazonaws.com
+   40  pwd
+   41  cd Downloads/
+   42  ls -ltr 
+   43  ssh -i "ubuntu-serverkey1.pem" ubuntu@ec2-18-183-204-165.ap-northeast-1.compute.amazonaws.com
+   44  ssh -i "ubuntu-serverkey4.pem" ubuntu@ec2-18-182-46-128.ap-northeast-1.compute.amazonaws.com
+   45  pwd
+   46  cd Downloads/
+   47  ssh -i "ubuntu-serverkey4.pem" ubuntu@ec2-18-182-46-128.ap-northeast-1.compute.amazonaws.com
+   48  ls
+   49  pwd
+   50  cd downloas/
+   51  ssh -i "ubuntu-serverkey4.pem" ubuntu@ec2-18-182-46-128.ap-northeast-1.compute.amazonaws.com
+   52  pws
+   53  ssh -i "ubuntu-serverkey4.pem" ubuntu@ec2-18-182-46-128.ap-northeast-1.compute.amazonaws.com
+   54  pwd
+   55  cd Downloads/
+   56  ssh -i "ubuntu-serverkey5.pem" ubuntu@ec2-35-78-178-175.ap-northeast-1.compute.amazonaws.com
+   57  pwd
+   58  cd Downloads/
+   59  ssh -i "ubuntu-server6.pem" ubuntu@ec2-18-183-33-188.ap-northeast-1.compute.amazonaws.com
+   60  pwd
+   61  cd Downloads/
+   62  ssh -i "ubuntu-serverkey8.pem" ubuntu@ec2-43-207-187-44.ap-northeast-1.compute.amazonaws.com
+   63  pwd
+   64  cd Downloads/
+   65  ssh -i "ubuntu-serverkey9.pem" ubuntu@ec2-54-199-9-181.ap-northeast-1.compute.amazonaws.com
+   66  pwd
+   67  cd Downloads/
+   68  ssh -i "ubuntu-serverkey10.pem" ubuntu@ec2-43-207-187-62.ap-northeast-1.compute.amazonaws.com
+   69  pwd
+   70  cd Downloads
+   71  ssh -i "ubuntu-serverkey10.pem" ubuntu@ec2-43-207-187-62.ap-northeast-1.compute.amazonaws.com
+   72  pwd
+   73  cd Downloads
+   74  pwd
+   75  cd Downloads/
+   76  ssh -i "ubuntu-serverkey10.pem" ubuntu@ec2-43-207-187-62.ap-northeast-1.compute.amazonaws.com
+   77  pwd
+   78  cd downloads
+   79  ssh -i "ubuntu-sereverkey12.pem" ubuntu@ec2-52-193-13-236.ap-northeast-1.compute.amazonaws.com
+   80  pwd
+   81  cd Downloads/
+   82  ssh -i "ubuntu-serverkey13.pem" ubuntu@ec2-54-238-239-51.ap-northeast-1.compute.amazonaws.com
+   83  pwd
+   84  cd Downloads/
+   85  ssh -i "ubuntu-serverkey14.pem" ubuntu@ec2-54-168-166-5.ap-northeast-1.compute.amazonaws.com
+   86  clear
+   87  pwd
+   88  cd do clear
+   89  clear
+   90  pwd
+   91  cd downloads
+   92  ssh -i "ubuntu-serverkey14.pem" ubuntu@ec2-54-168-166-5.ap-northeast-1.compute.amazonaws.com
+   93  cd Downloads/
+   94  ssh -i "ubuntu-serverkey15.pem" ubuntu@ec2-54-238-90-124.ap-northeast-1.compute.amazonaws.com
+   95  pwd
+   96  ssh -i "ubuntu-serverkey15.pem" ubuntu@ec2-35-77-94-186.ap-northeast-1.compute.amazonaws.com
+   97  pwd
+   98  ssh -i "ubuntu-serverkey15.pem" ubuntu@ec2-3-112-49-27.ap-northeast-1.compute.amazonaws.com
+   99  pwd
+  100  cd Downloads/
+  101  ssh -i "ubuntu-serverkey15.pem" ubuntu@ec2-18-183-193-61.ap-northeast-1.compute.amazonaws.com
+  102  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-44-200-250-228.compute-1.amazonaws.com
+  103  pwd
+  104  cd Downloads/
+  105  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-44-200-250-228.compute-1.amazonaws.com
+  106  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-44-200-250-228.compute-1.amazonaws.com
+  107  pwd
+  108  cd Downloads/
+  109  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-54-224-46-93.compute-1.amazonaws.com
+  110  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-44-211-130-145.compute-1.amazonaws.com
+  111  PWD
+  112  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-54-224-46-93.compute-1.amazonaws.com
+  113  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-54-224-46-93.compute-1.amazonaws.com
+  114  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-54-224-46-93.compute-1.amazonaws.com
+  115  pwd
+  116  cd Downloads/
+  117  ssh -i "tcs-serverkey1.pem" ubuntu@ec2-44-211-130-145.compute-1.amazonaws.com
+  118  ls -ltr
+  119  cat tcs.ppk
+  120  cat tcs-serverkey1.pem 
+  121  cd Downloads/
+  122  ssh -i "maruti-serverkey1.pem" ubuntu@ec2-54-87-88-176.compute-1.amazonaws.com
+  123  cd Downloads/
+  124  cat vpc-serverkey2.pem 
+  125  ssh -i "vpc-serverkey2.pem" ubuntu@ec2-3-238-107-164.compute-1.amazonaws.com
+  126  ls -lr cat vpc-serverkey2.pem 
+  127  cat vpc-serverkey2.pem 
+  128  cd Downloads/
+  129  ssh -i "my-keypair-1.pem" ubuntu@ec2-44-212-9-189.compute-1.amazonaws.com
+  130  ssh -i "vpc-serverkey1.pem" ubuntu@ec2-34-230-22-38.compute-1.amazonaws.com
+  131  ssh -i "vpc-serverkey1.pem" ubuntu@ec2-34-230-22-38.compute-1.amazonaws.com
+  132  ssh -i "vpc-serverkey1.pem" ubuntu@ec2-34-230-22-38.compute-1.amazonaws.com
+  133  chmod 400 vpc-serverkey1
+  134  chmod 400 vpc-serverkey1.ppk 
+  135  ssh -i "vpc-serverkey1.pem" ubuntu@ec2-34-230-22-38.compute-1.amazonaws.com
+  136  ssh -i "vpc-serverkey1.ppk" ubuntu@ec2-34-230-22-38.compute-1.amazonaws.com
+  137  ssh -i "vpc-serverkey1.pem" ubuntu@ec2-34-230-22-38.compute-1.amazonaws.com
+  138  chmod 400 vpc-serverkey.pem
+  139  ssh -i "vpc-serverkey2.pem" ubuntu@ec2-44-201-173-37.compute-1.amazonaws.com
+  140  ssh -i "vpc-serverkey2.pem" ubuntu@ec2-54-145-186-99.compute-1.amazonaws.com
+  141  ssh -i "vpc-serverkey2.pem" ubuntu@ec2-54-145-186-99.compute-1.amazonaws.com
+  142  ssh -i "vpc-serverkey2.pem" ubuntu@ec2-54-145-186-99.compute-1.amazonaws.com
+  143  ssh -i "vpc-serverkey2.pem" ubuntu@ec2-54-145-186-99.compute-1.amazonaws.com
+  144  cd Downloads/
+  145  ssh -i "mykeypair-1.pem" ubuntu@ec2-3-108-191-145.ap-south-1.compute.amazonaws.com
+  146  cd Downloads/
+  147  ssh -i "my-keypair01.pem" ubuntu@ec2-54-80-59-252.compute-1.amazonaws.com
+  148  cd Downloads/
+  149  ssh -i "serverkey-01.pem" ubuntu@ec2-54-210-65-58.compute-1.amazonaws.com
+  150  pwd
+  151  cd Downloads/
+  152  cat serverkey-01.pem 
+  153  ssh -i "serverkey-01.pem" ubuntu@ec2-54-210-65-58.compute-1.amazonaws.com
+  154  cd Downloads/
+  155  ssh -i "serverkey-01.pem" ubuntu@ec2-54-210-65-58.compute-1.amazonaws.com
+  156  ssh -i "serverkey-01.pem" ubuntu@ec2-3-86-40-228.compute-1.amazonaws.com
+  157  cd Downloads/
+  158  cat serverkey.pem
+  159  cat serverkey-01.pem 
+  160  pwd
+  161  cd Downloads/
+  162  ssh -i "serverkey-01.pem" ubuntu@34.201.168.13
+  163  ssh -i "mykey-01.pem" ubuntu@54.175.140.101
+  164  cd Downloads/
+  165  ssh -i "mykey-01.pem" ubuntu@35.173.183.49
+  166  ssh -i "mykey-01.pem" ubuntu@ec2-35-173-183-49.compute-1.amazonaws.com
+  167  ssh -i "mykey-01.pem" ubuntu@ec2-35-173-183-49.compute-1.amazonaws.com
+  168  ssh -i "mykey-01.pem" ubuntu@ec2-35-173-183-49.compute-1.amazonaws.com
+  169  cd Downloads/
+  170  ssh -i "serverkey-01.pem" ubuntu@ec2-44-211-164-25.compute-1.amazonaws.com
+  171  cd Downloads/
+  172  ssh -i "my-keypair-01.pem" ubuntu@ec2-3-89-163-241.compute-1.amazonaws.com
+  173  cd Downloads/
+  174  ssh -i "my-serverkey-01.pem" ec2-user@ec2-3-84-141-231.compute-1.amazonaws.com
+  175  cd Downloads
+  176  pwd
+  177  cd
+  178  pwd
+  179  cd /
+  180  pwd
+  181  ls
+  182  cd dev
+  183  ls
+  184  cd Documents
+  185  cd /Documents
+  186  cd
+  187  cd Documents
+  188  cd ..
+  189  mkdir Downloads
+  190  ls
+  191  history
+  192  cd Downloads/
+  193  ssh -i "my-keypair-1.pem" ec2-user@ec2-3-88-36-62.compute-1.amazonaws.com
+  194  ls -ltr
+  195  python --version
+  196  pthon3 --version
+  197  python3.exe --version
+  198  python.exe --version
+  199  python --version
+  200  pthon3
+  201  python
+  202  clear
+  203  pwd
+  204  cd Downloads/
+  205  ls-ltr --pythonversion
+  206  clear
+  207  pwd
+  208  python --version
+  209  python-3.10.10-amd64.exe --version
+  210  pwd
+  211  cd Downloads/
+  212  ssh -i "my-keypair.pem" ec2-user@ec2-18-207-120-71.compute-1.amazonaws.com
+  213  pwd
+  214  cd Download
+  215  cd Downloads/
+  216  pwd
+  217  ssh -i "my-keypair.pem" ec2-user@ec2-18-208-212-184.compute-1.amazonaws.com
+  218  pwd
+  219  cd Downloads
+  220  git
+  221  pwd
+  222  cd
+  223  cd Downloads/
+  224  [200~ssh -i "my-keypair.pem" ec2-user@ec2-18-208-212-184.compute-1.amazonaws.com~
+  225  ec2-18-208-212-184.compute-1.amazonaws.com
+  226  cd downloads
+  227  ssh -i "my-keypair07.pem" ec2-user@ec2-54-167-219-142.compute-1.amazonaws.com
+  228  clear
+  229  git branch
+  230  git checkout main 
+  231  git branch -M mai 
+  232  git branch
+  233  git branch -M main
+  234  git branch
+  235  git checkou -b sravan 
+  236  git checkout -b sravan 
+  237  git branch
+  238  git branch
+  239  git checkout -b ram
+  240  git branch
+  241  ls -ltr
+  242  rm -rf .git/
+  243  ls -ltr
+  244  git init
+  245  git add README.md
+  246  git commit -m "first commit"
+  247  git branch -M main
+  248  git remote add origin https://github.com/Ram-BRS/Currency-Converter.git
+  249  git push -u origin main
+  250  git commit -m "initial commit"
+  251  git add && git commit -m "Testing"
+  252  git add . && git commit -m "Testing"
+  253  git push -u origin main
+  254  history > commands.txt
